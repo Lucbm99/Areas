@@ -27,7 +27,9 @@ Ao clicar em RUN, o resultado será exibido a sua direita:
 O exercício trata-se de três funções (areaTriangulo, areaQuadrado e areaRetangulo), passando valores a elas como parâmetros, de acordo com o cálculo de cada figura geométrica:
 
 Quadrado: lado * lado;
+
 Retângulo: base * altura;
+
 Triângulo: base * altura / 2;
 
 
